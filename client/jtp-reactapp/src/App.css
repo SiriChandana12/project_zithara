@@ -1,0 +1,58 @@
+/* App.css 
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #9f4cb9;
+  margin:0%;
+  padding:0%;
+  border: #b81998;
+  border-radius: 2px;
+}
+
+.container {
+  max-inline-size: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  border:2px solid #faf;
+}
+.input{
+  background-color: rgb(190, 216, 24);
+  block-size:fit-content;
+  text-shadow: rgb(190, 216, 24);
+}
+table {
+  inline-size: 100%;
+  border-collapse: collapse;
+  margin-block-start: 20px;
+}
+
+th, td {
+  border: 2px solid #ddd;
+  padding: 10px;
+  text-align: start;
+}
+
+th {
+  background-color: #29972b;
+  color: white;
+}
+
+input, select {
+  padding: 8px;
+  border-radius: 5px;
+  block-size: 30px;
+  margin-block-end: 10px;
+  background-color: rgb(217, 204, 23);
+}
+
+button {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: rgb(55, 50, 76);
+  border: none;
+  cursor: pointer;
+}
+
+button:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+}*/
